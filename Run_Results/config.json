@@ -1,0 +1,41 @@
+{
+  "dataset_dir": "D:\\others\\python\\EE701_Dataset_project\\FRS_dataset",
+  "execution_context": "Jupyter notebook cell",
+  "images_dir": "D:\\others\\python\\EE701_Dataset_project\\FRS_dataset\\images",
+  "knn": {
+    "n_neighbors": 7,
+    "scaled": true,
+    "weights": "distance"
+  },
+  "labels_csv": "D:\\others\\python\\EE701_Dataset_project\\FRS_dataset\\labels.csv",
+  "models": [
+    "knn",
+    "rf"
+  ],
+  "package_versions": {
+    "Pillow": "11.1.0",
+    "numpy": "1.24.3",
+    "opencv-python": "4.8.1.78",
+    "pandas": "1.5.3",
+    "scikit-image": "0.24.0",
+    "scikit-learn": "1.2.2",
+    "scipy": "1.10.1"
+  },
+  "platform": "Windows-10-10.0.26200-SP0",
+  "python": "3.9.16 (main, Mar  8 2023, 10:39:24) [MSC v.1916 64 bit (AMD64)]",
+  "random_forest": {
+    "max_features": "sqrt",
+    "n_estimators": 400,
+    "random_state": 42,
+    "scaled": false
+  },
+  "script_path": null,
+  "script_sha256": null,
+  "seed": 42,
+  "ssim": {
+    "data_range": 255,
+    "win_size": 11
+  },
+  "test_size": 0.15,
+  "validation_size": 0.15
+}
