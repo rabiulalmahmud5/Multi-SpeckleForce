@@ -1,0 +1,22 @@
+Multi-SpeckleForce software environment
+Captured (UTC): 2026-09-02T01:17:32.951400+00:00
+Python: 3.9.16
+Executable: C:\anaconda\envs\mee1\python.exe
+Operating system: Windows-10-10.0.26200-SP0
+
+Important package versions:
+  numpy: 1.24.3
+  pandas: 1.5.3
+  scipy: 1.10.1
+  scikit-learn: 1.2.2
+  scikit-image: 0.24.0
+  opencv-python: 4.8.1.78
+  Pillow: 11.1.0
+  matplotlib: 3.7.1
+  joblib: 1.1.1
+  threadpoolctl: 2.2.0
+  tensorflow: 2.10.0
+  keras: 2.10.0
+
+For complete dependency pins, see requirements_exact.txt.
+For machine-readable metadata, see software_versions.json.
